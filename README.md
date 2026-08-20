@@ -13,7 +13,7 @@
 ---
 
 ### 📊 Projetos em destaque
-- 🔗 [Portfólio Pessoal]([https://seu-link-aqui.com](https://silas000.github.io/portifolio/)  
+- 🔗 [Portfólio Pessoal]([https://silas000.github.io/portifolio/]
 
 ---
 
