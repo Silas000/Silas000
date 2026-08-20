@@ -2,8 +2,13 @@
 
 <div align="center">
   <a href="https://github.com/silas000">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silas000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silas000&layout=compact&langs_count=7&theme=dracula"/>
+    <div align="center">
+  <!-- Estatísticas de streak (dias seguidos de contribuição) -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=silas000&theme=dracula&hide_border=false"/>
+  <!-- Gráfico de atividades -->
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=silas000&theme=dracula"/>
+</div>
+
   </a>
 </div>
 
@@ -16,13 +21,13 @@
   <img align="center" alt="Silas-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Silas-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Silas-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Silas-Laravel" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Silas-Laravel" height="40" width="40" src="https://www.svgrepo.com/show/303379/laravel-logo.svg">
 </div>
 
 ---
 
 ### 📊 Projetos em destaque
-- 🔗 [Portfólio Pessoal](https://seu-link-aqui.com)  
+- 🔗 [Portfólio Pessoal]([https://seu-link-aqui.com](https://silas000.github.io/portifolio/)  
 
 ---
 
